@@ -1,0 +1,11 @@
+Backward Bigram Diary:
+1. us ke lye bus ke pas ta ke time mujhe nasta dia (Perplexity: 3.99)
+2. ma ne mujhe nasta dia kahir phir nascon ke highlights (Perplexity: 3.34)
+3. 4 beje utha . ma subha 12 (Perplexity: 5.26)
+4. wapis aye hoye the wapis phir fyp ke ly bhe pics (Perplexity: 4.88)
+5. cafe ma ne decide kia phir sare classes len (Perplexity: 3.89)
+6. ke aj reporting the team protocol ke waja (Perplexity: 3.45)
+7. gaya phir class se phale dosto ko bhe (Perplexity: 3.95)
+8. shugal lagaya gane gaye suba 5 30 university poncha aj addition subtraction (Perplexity: 2.84)
+9. theek karane but rush dekh ke lunch (Perplexity: 1.98)
+10. trip par ma subah 5 beje nikal gaya 8 30 utha aue (Perplexity: 5.92)

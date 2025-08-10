@@ -1,0 +1,11 @@
+Bigram Diary:
+1. rawana ho gye snooker aur us ke bad (Perplexity: 2.70)
+2. classes len aj addition subtraction hoye the for two (Perplexity: 2.47)
+3. soone ka suba 5 beje nikal gaya phir ghar poncha (Perplexity: 5.11)
+4. shoot the us ne uthaya as mujhe dost (Perplexity: 5.08)
+5. cricket khelne chale gaye waha par aur dost ko drop kia (Perplexity: 4.48)
+6. kehlne ka kam hum academic office gaye . mera dosra (Perplexity: 3.39)
+7. den us ke meeting the who karne (Perplexity: 3.59)
+8. sheets fill ken basically phir khana khaya 6 , phir ma (Perplexity: 2.78)
+9. ly bhe soo gaya suba 5 beje (Perplexity: 2.12)
+10. ho gaya phir around 7 30 university se 5 15 par interview (Perplexity: 4.17)
