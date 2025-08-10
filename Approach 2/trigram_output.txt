@@ -1,0 +1,11 @@
+=== Trigram Model ===
+Sentence 1: mein abhi sou skti hun ? nhi so
+Sentence 2: nhi so skti mein kiuke bohat kam pare
+Sentence 3: kam pare hain krne wale Alhamdullilah . , aj jaldi
+Sentence 4: aj jaldi uth ke tyar hui university ke liye French fries bnaye
+Sentence 5: fries bnaye , kha hi rhi thi ke tuition jo bache
+Sentence 6: jo bache prhne ate hain wou agaye , unke
+Sentence 7: , unke beech larai ho gyi , phir heater ke samne beth
+Sentence 8: samne beth ke wapis agayi , phir dost ke ghar dawat thi
+Sentence 9: dawat thi , phir meine kuch kaam kiye aur so
+Sentence 10: aur so gyi , phir khana khaya aur so gyi ,

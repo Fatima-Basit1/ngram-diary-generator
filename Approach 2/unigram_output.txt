@@ -1,0 +1,11 @@
+=== Unigram Model ===
+Sentence 1: skti rha bethi skti motivate kahan hai rha motivation pareshan ke
+Sentence 2: CV class walida tv din mujhy dekhne neend aise
+Sentence 3: that nlp pasta phale homework yeh sab sath wapis
+Sentence 4: liye hain para sheet hiking baat gum
+Sentence 5: shoot alfredo laga bnayi call forest party tv
+Sentence 6: Ameen pia sharaan jaa confuse kaam hote rhi bus unse bohat
+Sentence 7: resolve birthday that dawat ka discuss bnani friends
+Sentence 8: lene phale khatam ghanta ghalat internship season ko
+Sentence 9: council shuruh sahelion ponch gyi pari neend neend sojaongi
+Sentence 10: himmat kam kia feedback krke unse kaha jiski uthte aa

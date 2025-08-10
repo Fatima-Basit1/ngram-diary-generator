@@ -1,0 +1,11 @@
+=== Bigram Model ===
+Sentence 1: raat ka but kia aur university ke
+Sentence 2: ke samne beth ke . Ghar ponch ke bad mein beth ke
+Sentence 3: ke kahan gum gye , uske bad meine khana khaya ,
+Sentence 4: , unke sath bethi aur khaya aur ammi agayi class
+Sentence 5: class ka thora off tha lekin ab mein sone lagi hun aur
+Sentence 6: aur so gyi . Uthne ke mama
+Sentence 7: mama ne mil ke , meri halat neend mein beth ke
+Sentence 8: ke ghar jana para , ab kia , mama ka thora motivate
+Sentence 9: motivate kia , aj ke tyar ho ke bad kuch der mobile
+Sentence 10: mobile use kamyab kre , after that meine trip

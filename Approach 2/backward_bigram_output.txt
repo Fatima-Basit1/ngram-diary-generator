@@ -1,0 +1,11 @@
+=== Backward Bigram Model ===
+Sentence 1: balakot gye zip line wagera ki activity ki hamne jo bache ki
+Sentence 2: nhi kr rha hai lekin buses hi laptop khol ke tanay
+Sentence 3: bethi aur homework kraya , khana khaya ,
+Sentence 4: laga ke sath bethi aur so gyi , aj subah uthte
+Sentence 5: ke jaongi , uske bad bachon ko tuition parhayi khana khaya ,
+Sentence 6: birthday celebrate ki khoob enjoy kia aur university ponche
+Sentence 7: blockchain ki class ka kam pare hain subah jaldi
+Sentence 8: pta laga lekin buses hi , Allah mujhy ghar jana para
+Sentence 9: psnd nhi kr skte hain aj bilkul bhi confuse ho
+Sentence 10: bnaye , phir meine khana kha ke thora late ho

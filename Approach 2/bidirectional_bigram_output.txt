@@ -1,0 +1,11 @@
+=== Bidirectional Bigram Model ===
+Sentence 1: phir , liye ke ponch main
+Sentence 2: phale se kamo Sab . gaye uske bad fyp ka kam kr
+Sentence 3: liye ke ponch Ghar subha
+Sentence 4: ke wapsi , ke ponch kal
+Sentence 5: tha off thora aaj
+Sentence 6: btayi batain der thori subha
+Sentence 7: hui fresh phale se ghar der aaj
+Sentence 8: tou hai kharab hum
+Sentence 9: mama phir ghe khaye baryani kal
+Sentence 10: , sojaongi krke kam sa thora phir aa ke baba ke ghar
